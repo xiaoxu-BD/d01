@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Demoj01Application {
 
     public static void main(String[] args) {
+        //数据库设计是
         SpringApplication.run(Demoj01Application.class, args);
     }
 
