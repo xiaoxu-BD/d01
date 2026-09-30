@@ -8,6 +8,7 @@ public class Demoj01Application {
 
     public static void main(String[] args) {
         //数据库设计是 rebase 之前 提交好的
+        //after rebase
         SpringApplication.run(Demoj01Application.class, args);
     }
 
